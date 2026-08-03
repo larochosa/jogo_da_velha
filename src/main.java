@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class main {
+public class Main {
 
     static final char JOGADOR = 'X';
     static final char COMPUTADOR = 'O';
